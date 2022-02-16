@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <main>
-	<FIO>Shchatkovskaya Elena Viktorovna</FIO>
+	<fio>Shchatkovskaya Elena Viktorovna</FIO>
 	<age>45</age>
-	<Number_Of_Pets>2</Number_Of_Pets>
-	<Salary>1000$</Salary>
+	<number_Of_Pets>2</Number_Of_Pets>
+	<salary>1000$</Salary>
 </main>
