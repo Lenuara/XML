@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <ID>1</ID>
+	<summary>Missing input field namei 'Date of birth'</summary>
+	<environment>All browsers</environment>
+	<severity>minor</severity>
+  <steps>
+		    <step_1>Open https://www.testsite.com</step_1>
+		    <step_2>Follow 'New account' link</step_2>
+		    <step_3>Registration form is open</step_3>
+	</steps>
+	<actual_result>Missing input field name 'Date of birth'</actual_result>
+	<expected_result>The name of the field 'Date of birth' in the  registration form is near the input field</expected_result>
+	<attachment>www.radikal.ru/qwerty.jpg</attachment>
+</bug_report>
 
