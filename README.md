@@ -33,7 +33,7 @@
 46. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML  
    `vim sklls.xml`
 47. Сделать коммит в одну строку.  
-  `git commit -am "Add preferences.xml and sklls.xml"` 
+  `git add . && git commit -m "Add preferences.xml and sklls.xml"` 
 48. Отправить сразу 2 файла на внешний репозиторий.  
    `git push`
 49. На веб интерфейсе создать файл bug_report.xml.  
